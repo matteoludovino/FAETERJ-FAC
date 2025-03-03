@@ -1,5 +1,5 @@
 <div align="center">
-<h1> <img src="https://imgur.com/NarlCSC.png" width="250px"><br/>Matéria primeiro periodo FAETERJ-RIO</h1>
+<h1> <img src="https://imgur.com/hpBbjBN.png" width="250px"><br/>Matéria primeiro periodo FAETERJ-RIO</h1>
 </div>
 
 
