@@ -2,7 +2,6 @@
 <h1> <img src="https://imgur.com/vxsNQ0w.png" width="250px"><br/>Matéria primeiro período FAETERJ-RIO</h1>
 </div>
 
-
 # Descrição
 Exercicios e atividades das aulas de FAC do curso Análise e Desenvolvimento de Sistemas da FAETERJ Rio
 
