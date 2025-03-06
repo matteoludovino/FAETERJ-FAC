@@ -2,10 +2,10 @@
 <h1> <img src="https://imgur.com/vxsNQ0w.png" width="250px"><br/>Matéria primeiro período FAETERJ-RIO</h1>
 </div>
 
-# Descrição
+# ▸ Descrição
 Exercicios e atividades das aulas de FAC do curso Análise e Desenvolvimento de Sistemas da FAETERJ Rio
 
-# Características
+# ▸ Características
 Durante as aulas foram abordados os seguintes temas:
 - Conceito de Algoritmos.
 - Construção de algoritmos utilizando estruturas básicas de programação.
@@ -17,12 +17,12 @@ Durante as aulas foram abordados os seguintes temas:
 - Manipulação de Matrizes.
 - Noções de Complexidade de Algoritmos.
 
-# Tech Used
+# ▸ Tech Used
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c" />
 </a>
       
-# Mais detalhes:
+# ▸ Mais detalhes:
 100% Aproveitamento
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=matéria&message=concluida&color=GREEN&style=for-the-badge)<br>
